@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jarefile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jarefile/jquery-1.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarefile/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarefile/apache-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarefile/maven-plugin-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarefile/guava-31.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarefile/jTable-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
